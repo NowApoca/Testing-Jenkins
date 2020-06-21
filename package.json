@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NowApoca/Testing-Jenkins/issues"
   },
-  "homepage": "https://github.com/NowApoca/Testing-Jenkins#readme"
+  "homepage": "https://github.com/NowApoca/Testing-Jenkins#readme",
+  "dependencies": {
+    "expect": "^26.0.1",
+    "mocha": "^8.0.1"
+  }
 }
